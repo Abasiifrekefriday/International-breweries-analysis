@@ -50,7 +50,6 @@ Some cells in the year column had the dates represented as 2109 instead of 2019,
   - Invest in marketing and promoting of malt product to maximize revenue.
   - Invest in staff knowledge of marketting, create a competitive target for sales personnel.
  
-  ## Dashboard
   
 
   
