@@ -28,6 +28,10 @@ Some cells in the year column had the dates represented as 2109 instead of 2019,
 - Data modelling: Building one-to-many relationships between data tables, slicers and time liners were created and linked to each chart to create relationship between changes in country and dates for easy deductions.
 - Data visualization: this was created using excel and is made up of the pivot charts and the slicers. It also consist of the total revenue and profit made within the years.
 
-  ### 
+  ### Analysis Result
+  Business Question 1: What Country Generated The Highest Profit In 2019?
+  ![Screenshot (131)](CHART 
+  ![Screenshot (131)](https://github.com/Abasiifrekefriday/International-breweries-analysis/assets/108738787/6c28425a-1e77-4534-8730-bd00da110c73)
+
   
 
