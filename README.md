@@ -28,10 +28,37 @@ Some cells in the year column had the dates represented as 2109 instead of 2019,
 - Data modelling: Building one-to-many relationships between data tables, slicers and time liners were created and linked to each chart to create relationship between changes in country and dates for easy deductions.
 - Data visualization: this was created using excel and is made up of the pivot charts and the slicers. It also consist of the total revenue and profit made within the years.
 
-  ### Analysis Result
-  Business Question 1: What Country Generated The Highest Profit In 2019?
-  ![Screenshot (131)](CHART 
-  ![Screenshot (131)](https://github.com/Abasiifrekefriday/International-breweries-analysis/assets/108738787/6c28425a-1e77-4534-8730-bd00da110c73)
+  ### Findings from Analysis
+- What country generated the highest profit in 2019?
+  The analysis shows the percentage of profit made from the 6 countries. According to the pivot analysis carried out, Ghana has generated the highest amount of profit being 24% in 2019.
+- Find the year with the highest profit.
+  The analysis indicates the year in which the most profits were made. According to the analysis, the highest profit is spotted in 2017 with a total sum of $38,503,320.
+- The brand manager wants to know the top 3 brands consumed.
+  Within the 3 years of sales, it is required to know the most purchased brand. This was generated using the brands available and the quantity purchased over the years. At the end of 
+  analysis, the top 3 performing brands are; Hero, Castle Lite and Trophy with quantity of 129060, 128174 and 128059 respectively.
+- What is the favorite malt brand in the Anglophone countries?
+  Anglophone countries are English speaking countries. The two (2) brands malt available are grand malt and beta malt. The two Anglophone countries are Ghana and Nigeria. In Ghana, grand 
+  malt is the most purchased brand of malt whereas in Nigeria, beta malt is mostly purchased.
+- Find the country with the highest consumption of beer.
+  The doughnut chart shows the country with the highest amount of beer consumption. The brand type column assisted in creating this analysis. The country with the highest beer 
+  consumption is Senegal with a total of 129875 quantity of beer consumption.
+- Find the top 5 sales personnel.
+  A total of 11 sales personnel are employed at Pabst Brewing Company and 5 persons topped the list. The sales personnel include; Jones, Jardine, Gill, Sorvino and Andrews.
+
+  ### Recommendation
+  - Iocus in expanding the beer product.
+  - Invest in marketing and promoting of malt product to maximize revenue.
+  - Invest in staff knowledge of marketting, create a competitive target for sales personnel.
+ 
+  ## Dashboard
+  
+
+  
+  
+  
+  
+  
+  
 
   
 
